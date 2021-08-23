@@ -1,0 +1,55 @@
+[
+    {
+        "_id": "60d4531f12b10461adbbf722",
+        "permissions": [
+            "view subscriptions",
+            "create subscriptions",
+            "delete subscriptions",
+            "view movies",
+            "create movies",
+            "delete movies",
+            "update subscriptions",
+            "update movies"
+        ]
+    },
+    {
+        "_id": "60dd8075cbafb23c7cf25be2",
+        "permissions": [
+            "view movies",
+            "create movies",
+            "update movies",
+            "view subscriptions",
+            "update subscriptions"
+        ]
+    },
+    {
+        "_id": "60e154d330715c344c0360fa",
+        "permissions": [
+            "view subscriptions",
+            "delete subscriptions",
+            "delete movies",
+            "view movies",
+            "create subscriptions"
+        ]
+    },
+    {
+        "_id": "60e435f3ed7f60137c679d86",
+        "permissions": [
+            "view subscriptions",
+            "view movies"
+        ]
+    },
+    {
+        "_id": "60f531c047abc1291c22c507",
+        "permissions": [
+            "view subscriptions",
+            "create subscriptions",
+            "delete subscriptions",
+            "update subscriptions",
+            "create movies",
+            "view movies",
+            "delete movies",
+            "update movies"
+        ]
+    }
+]
